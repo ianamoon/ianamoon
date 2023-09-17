@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ianamoon
-- 👀 I’m interested in cheschemistry.
+- 👀 I’m interested in chemistry.
 - 🌱 I’m currently learning python.
 - 💞️ I’m like play videogames and listen music
 
